@@ -20,6 +20,11 @@ Include via link
 ![test](./test_svg_triangle.svg)
 <img src="./test_svg_triangle.svg">
 
+<img src="https://raw.github.com/physicsfoodsleep/test-public/test_svg_triangle.svg">
+
+sanitized
+<img src="https://raw.github.com/physicsfoodsleep/test-public/test_svg_triangle.svg?sanitize=true">
+
 try as png
 
 <img src="./test_svg_triangle.png">
