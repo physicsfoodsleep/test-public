@@ -19,6 +19,7 @@ Include via link
 
 ![test](./test_svg_triangle.svg)
 <img src="./test_svg_triangle.svg">
+<img src="test_svg_triangle.svg">
 
 ![testing](<./test_svg_triangle.svg>)
 
@@ -38,5 +39,3 @@ link from github.io
 ![test](https://ahc-youngblood.github.io/modern-notes/test_svg_triangle.svg)
 
 <img src="https://ahc-youngblood.github.io/modern-notes/test_svg_triangle.svg">
-
-<img src="https://rawgit.com/physicsfoodsleep/test-public/master/test_svg_triangle.svg">
