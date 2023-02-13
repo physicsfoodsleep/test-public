@@ -20,6 +20,10 @@ Include via link
 ![test](./test_svg_triangle.svg)
 <img src="./test_svg_triangle.svg">
 
+try as png
+
+<img src="./test_svg_triangle.png">
+
 ![testing](<./test_svg_triangle.svg>)
 
 Include but with img tag?
