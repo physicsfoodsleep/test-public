@@ -38,3 +38,5 @@ link from github.io
 ![test](https://ahc-youngblood.github.io/modern-notes/test_svg_triangle.svg)
 
 <img src="https://ahc-youngblood.github.io/modern-notes/test_svg_triangle.svg">
+
+<img src="https://rawgit.com/physicsfoodsleep/test-public/master/test_svg_triangle.svg">
